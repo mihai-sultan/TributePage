@@ -1,3 +1,10 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/mihai-sultan/pen/JKxPKg.
+Free Code Camp tribute page as a front end project part of the Free Code Camp curriculum.
+
+Tools: 
+	•	HTML5
+	•	CSS3
+	•	Bootstrap
+	•	jQuery
+
 
  
